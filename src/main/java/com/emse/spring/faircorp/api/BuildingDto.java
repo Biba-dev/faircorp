@@ -1,5 +1,6 @@
 package com.emse.spring.faircorp.api;
 
+import com.emse.spring.faircorp.model.Building;
 import com.emse.spring.faircorp.model.HeaterStatus;
 
 public class BuildingDto {
